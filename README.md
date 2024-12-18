@@ -1,4 +1,4 @@
-# ToDo App
+# TODO App
 
 ### Description
 
